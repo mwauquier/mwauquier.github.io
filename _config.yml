@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Marine Wauquier"
 title_separator          : "-"
 name                     : &name "Marine Wauquier"
-description              : &description "personal description"
+description              : &description "Personal page"
 url                      : https://mwauquier.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mwauquier/mwauquier.github.io"
@@ -81,10 +81,10 @@ analytics:
 # Site Author
 author:
   name             : "Marine Wauquier"
-  avatar           : "profile.png"
-  bio              : "Postdoctoral Researcher"
-  location         : "Paris"
-  employer         : "[LLF](http://www.llf.cnrs.fr/Gens/Wauquier)"
+  avatar           : "wauquier_photo.jpeg"
+  bio              : "Postdoctoral Researcher in Computational Linguistics"
+  location         : "LLF (Paris, France)"
+  employer         : "http://www.llf.cnrs.fr/Gens/Wauquier"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=iAp0ccMAAAAJ&hl=fr"
   email            : "marine.wauquier@hotmail.fr"
@@ -114,6 +114,7 @@ author:
   weibo            :
   xing             :
   youtube          :
+  hal		    : "https://hal.archives-ouvertes.fr/search/index/?q=%2A&authIdHal_s=marine-wauquier"
   wikipedia        :
 
 
