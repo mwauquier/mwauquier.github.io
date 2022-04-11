@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,51 +9,77 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+You can download my [full resume]({{ site.url}}/files/Wauquier_english_cv_202204_anonym.pdf).
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+Teaching and publications are more thoroughly described in the dedicated sections.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+{% include toc %}
+
+Degrees
+------
+
+* Lecturer Qualification in Linguistics Science (section 7) of the French National Universities Council (CNU)
+* PhD in Linguistics Sciences
+* Master's degree of Linguistic Sciences, speciality Linguistics, Computing and Language Technologies, Université Toulouse Jean Jaurès, France
+* Bachelor's degree of English - Foreign Languages, Litteratures and Civilizations, Université Lille 3 - Charles de Gaulle, France
+* Bachelor's of English - Foreign Languages, Litteratures and Civilizations, Université Lille 3 - Charles de Gaulle, France
+
+Academic Positions
+------
+* Post-doctoral fellow
+  * Université Paris Cité (France)
+  * Since january 2021
+  * Supervisors: Prof. Olivier Bonami & Prof. Juliette Thuilier
+
+* PhD student
+  * Université Toulouse Jean Jaurès (France)
+  * 2017-2020
+  * Supervisors: Prof. Nabil Hathout & Prof. Cécile Fabre
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+Teaching experience
+------
+* Spring 2022
+* Fall 2021
+* Spring 2021
+* Fall 2020
+* Sprint 2020
+* Fall 2019
+* Sprint 2019
+* Fall 2018
+
+Research Advising
+------
+* Master's thesis
+* Master's thesis
+* Master's thesis
 
 Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+------
+WIP
   
 Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+------
+WIP
+
+Grants
+------
+* 18-month post-doctoral research fellowship
+* Hubert Curien partnership
+* 3-year PhD scholarship
+* International Doctoral Mobility Scholarship
+
+Funded Projects
+------
+* Demonext
+* La sémantique des noms déverbaux en français (semantics of french deverbal nouns)
+* RESTAURE
+
+Services
+------
+* Reviewing
+	* Conference AIMM
+* Administrative Service
+	* PhD student representative
+	* CEPEL member
+* Conference organization
+	* Esslli
