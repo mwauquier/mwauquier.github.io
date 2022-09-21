@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Marine Wauquier"
   avatar           : "wauquier_photo.jpeg"
-  bio              : "Postdoctoral Researcher in Computational Linguistics"
-  location         : "LLF (Paris, France)"
-  employer         : "http://www.llf.cnrs.fr/Gens/Wauquier"
+  bio              : "Associate Professor"
+  location         : "Sorbonne Nouvelle, Lattice"
+  employer         : ""
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=iAp0ccMAAAAJ&hl=fr"
-  email            : "marine.wauquier@hotmail.fr"
+  email            : "marine.wauquier@sorbonne-nouvelle.fr"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

@@ -11,7 +11,7 @@ redirect_from:
 
 You can download my [full resume]({{ site.url}}/files/Wauquier_english_cv_202204_anonym.pdf).
 
-Teaching and publications are more thoroughly described in the dedicated sections.
+[Teaching]({{ site.url}}/teaching/), [publications]({{ site.url}}/publication/) and [talks]({{ site.url}}/talks/) are more thoroughly described in the dedicated sections.
 
 {% include toc %}
 
@@ -26,6 +26,10 @@ Degrees
 
 Academic Positions
 ------
+* Associate Professor of NLP
+  * Université Sorbonne Nouvelle
+  * Lattice (UMR 8094, CNRS, Sorbonne Nouvelle, ENS)
+ 
 * Post-doctoral fellow
   * Université Paris Cité (France)
   * Since january 2021
@@ -38,28 +42,34 @@ Academic Positions
   
 Teaching experience
 ------
+* Fall 2022
+  * Machine Creativity and text generation
+  * Corpus Linguistics
+  * Morphology
+  * Introduction to distributional semantics
 * Spring 2022
+  * Inflectional morphology
 * Fall 2021
+  * Introduction to derivational morphology
+  * Advanced derivational morphology
 * Spring 2021
-* Fall 2020
+  * Quantitative morphology
 * Sprint 2020
+  * Corpus analysis
 * Fall 2019
+  * Introduction to morphology
+  * Current researches in NLP
 * Sprint 2019
+  * Lexicography
 * Fall 2018
+  * Introduction to linguistic theories
+  * Current researches in NLP
 
 Research Advising
 ------
 * Master's thesis
 * Master's thesis
 * Master's thesis
-
-Publications
-------
-WIP
-  
-Talks
-------
-WIP
 
 Grants
 ------
