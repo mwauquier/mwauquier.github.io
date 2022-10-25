@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can download my [full resume]({{ site.url}}/files/Wauquier_english_cv_202204_anonym.pdf).
+You can download my [full resume]({{ site.url}}/files/Wauquier_english_cv_anonym_20221025.pdf).
 
 [Teaching]({{ site.url}}/teaching/), [publications]({{ site.url}}/publication/) and [talks]({{ site.url}}/talks/) are more thoroughly described in the dedicated sections.
 

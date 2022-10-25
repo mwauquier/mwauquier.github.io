@@ -5,12 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
+You'll find below a list of all my current publications. Under review publications are not mentionned for anonymity matters. My list of publications is also avalaible in a [downloadable PDF file]({{ site.url}}/files/Wauquier_english_publication_list_20221025.pdf).
+
 Peer-reviewed Journal Articles
 ------
 
-- Thuilier, J., Tribout, D. & **Wauquier, M** (under review). Affixal rivalry in demonym formation.
-- **Wauquier, M.** & Bonami, O (under review). Social gender and derivational morphology - a distributional study of the gendered import of learnèd morphology in French.
-- Lombard, A., **Wauquier, M.**, Fabre, C., Hathout, N., Ho-Dac, M. & Huyghe, R (under press). Evaluating morphosemantic demotivation through experimental and distributional methods. *Lingvisticae Investigationes*.
+- Lombard, A., **Wauquier, M.**, Fabre, C., Hathout, N., Ho-Dac, M. & Huyghe, R (under press). Evaluating morphosemantic demotivation through experimental and distributional methods. *Lingvisticae Investigationes*, 45:1.
 - **Wauquier, M** (2022). Apports de la sémantique distributionnelle pour la morphologie dérivationnelle. *Corpus*, 23. URL : [https://journals.openedition.org/corpus/6303](http://journals.openedition.org/corpus/6303) ; DOI : [https://doi.org/10.4000/corpus.6303](https://doi.org/10.4000/corpus.6303)
 - Huyghe, R. & **Wauquier, M** (2021). Distributional semantics insights on agentive sufﬁx rivalry in French. *Word Structure*, 14:3, 354–391.
 - Huyghe, R. & **Wauquier, M** (2021). Une étude distributionnelle des noms d'agent en *-ant*, *-eur*, *-ien*, *-ier* et *-iste*. *Verbum*, XLIII, no. 1, 13-40.

@@ -5,17 +5,17 @@ permalink: /projects/
 author_profile: true
 ---
 
-Main funded and non-funded projects I've been or still am involved with, and their related data.
+Here is a brief description of the main funded and non-funded projects I've been or still am involved with. When available, a link to their official website and their related data repositories is provided.
 
 
 Demonette
 ------
 
-French morphological database, funded by the ANR. Descriptions and Data are available on the [Demonext website](https://www.demonext.xyz/).
+**Demonette** is a French morphological database developped during the **Demonext** project funded by the French ANR (ANR-17-CE23-0005). Descriptions and Data are available on the [Demonext website](https://www.demonext.xyz/).
 
-I've been specially working on affix rivalry in the context of French demonyms.
+I contributed to the Demonext project as a post-doctoral fellow at the Laboratoire de Linguistique Formelle (LLF) at the Université Paris Cité (France). The objective of my post-doc was to provide a computational and quantitative exploitation of this resource. More specifically, I investigated two main cases of affix rivalry in French: feminine agentive suffixes *-euse* and *-rice*, and demonym-coining suffixes *-ais*, *-éen*, *-ien* and *-ois*. Demonym rivalry was investigated through the statistical modelling of the interaction of phonological, morphological and geographical features. The study of *-euse* and *-rice* rivalry was led based on semantic and morphological properties, and most specifically through the use of word embeddings both in a classification task and a qualitative analysis of the vector space.
 
-I've also been working on the morphosemantic distinction between French *-euse* and *-rice* suffixes in the formation of feminine agent nouns.
+Articles recounting each study are currently under review. Data specific to the *-euse* and *-rice* rivalry study are available below.
 
 [Access data](https://osf.io/jxg2v/){: .btn}
 

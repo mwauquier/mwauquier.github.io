@@ -15,9 +15,6 @@ Current position
 
 I am an Associate Professor of NLP at Sorbonne Nouvelle university and Lattice (UMR 8094, Sorbonne Nouvelle, Ecole Normale Supérieure) in Paris.
 
-I previously was a post-doctoral fellow at the Laboratoire de 
-Linguistique Formelle (LLF) at the Université Paris Cité (France), as part of the [Demonext project](https://www.demonext.xyz/en/home/) (ANR-17-CE23-0005), which aims at constructing a French morphological database (MDB) that describes the derivational properties of words in a systematic manner. The objective of my post-doc was to provide a computational and quantitative exploitation of this resource. More specifically, I investigated two main cases of affix rivalry in French: feminine agentive suffixes *-euse* and *-rice*, and demonym-coining suffixes *-ais*, *-éen*, *-ien* and *-ois*.
-
 
 Research thematics
 ------
