@@ -67,9 +67,10 @@ Teaching experience
 
 Research Advising
 ------
-* Master's thesis
-* Master's thesis
-* Master's thesis
+* Master’s thesis of Linguistic Sciences (Université Toulouse Jean Jaurès, France)
+  * Sémantique des noms d’action suffixés en *–age*, *–ion* et *–ment* : étude du degré de technicité (Mickaëla Vandewaetere, 2020), co-supervised with Cécile Fabre
+  * Étude des différences sémantiques entre dérivés morphologiques : le cas de la féminisation des noms d’agent suffixés en -eur (Mathilde Esperce, 2019), co-supervised with Cécile Fabre
+  * Étude de la stabilité des relations sémantiques lexicales basées, sur les modèles sémantiques distributionnels (Frédéric Saudemont, 2019), co-supervised with Nabil Hathout
 
 Grants
 ------
@@ -80,16 +81,27 @@ Grants
 
 Funded Projects
 ------
-* Demonext
-* La sémantique des noms déverbaux en français (semantics of french deverbal nouns)
-* RESTAURE
+* Demonext (Derivation Morphologique en Extention) - ANR-17-CE23-0005
+  * Cordinator: Fiammetta Namer
+* La sémantique des noms déverbaux en français - FNS project No. 100012_188782
+  * Cordinator: Richard Huyghe 
+* RESTAURE (Ressources informatisées et traitement automatique pour les langues régionales) - ANR-14-CE24-0003
+  * Cordinator: Delphine Bernhard
 
 Services
 ------
 * Reviewing
-	* Conference AIMM
-* Administrative Service
-	* PhD student representative
-	* CEPEL member
+  * Abstract Conference Review - 5th American International Morphology Meeting (2021)
+
+* Administrative service
+  * PhD student Representative, CLLE, Université Toulouse Jean Jaurès, France (2018–2020)
+  * CEPEL Member, association promoting linguistic research through vulgarization seminars for Bachelor students (2017–2020)
+  
 * Conference organization
-	* Esslli
+  * Colloque de Syntaxe et Sémantique à Paris (CSSP 2021) - Paris, France
+  * La Grande Grammaire du français, event for the presentation of the book GGF (2021) - Paris, France
+  * Printemps des Jeunes Chercheurs CLLE 2020, doctoral workshop for the laboratory CLLE (2020) - Université Toulouse Jean Jaurès, France
+  * Printemps des Jeunes Chercheurs CLLE 2019, doctoral workshop for the laboratory CLLE (2019)- Université Toulouse Jean Jaurès, France
+  * TALN-RECITAL 2019, international NLP conference (2019) - Nancy, France
+  * Cross-Linguistic Discourse Annotation: applications and perspectives 2018 (2018) - Toulouse, France
+  * ESSLLI 2017, European Summer School in Logic, Language and Information (2017) - Université Toulouse Capitole, France

@@ -11,10 +11,34 @@ J’ai bénéficié dans le cadre de mon contrat doctoral de deux avenants d’e
 du Langage (UFR LLCE) de l’université Toulouse Jean Jaurès. Je suis par ailleurs chargée d’enseignement vacataire au département Sciences du langage (Faculté des Humanités) de l’Univer-
 sité de Lille depuis septembre 2021, pour un total de 120h.
 
+Université Sorbonne Nouvelle (France)
+------
+
+* Machine Creativity and Automatic text generation
+	* Fall 2022 - 1st year of NLP Master's program (PluriTAL)
+	* 30 students
+	* *Description:* Students are introduced to the notion of machine creativity in the context of NLP tasks and applications, and more specifically to text generation. The task is approached in both a practical and theoretical way, with a focus on linguistic issues with respect to data and evaluation.
+	* *Notions:* machine creativity, natural language generation
+
+* Morphology
+	* Fall 2022 - 2nd year of Linguistics Bachelor's program
+	* 15 students
+	* *Description:* This course aims at providing an overview of morphology in a typological approach. Based on various languages, students are introduced to the main concepts of morphology.
+	* *Notions:* derivation, inflection, morpheme, lexeme, word form, morphosyntactic features, morphophonological processes
+
+Université de Neuchâtel (Switzerland)
+------
+
+* Introduction to distributional semantics
+	* Fall 2022 - PhD students
+	* 10 students
+	* *Description:* In this invited course, I provide a theoretical and practical introduction to the use of distributional semantics to work on semantic relationships in corpora.
+	* *Notions:* distribution, context, embeddings, distributional semantic model, word2vec
+
 Université de Lille (France)
 ------
 
-* ***Inflectional Morphology***
+* Inflectional Morphology
 	* Spring 2022 - 2nd year of Linguistics Bachelor's program
 	* 100 students
 	* *Description:* This course provides an in-depth presentation of inflectional morphology. Students are given the tools to identify and analyze the morphosyntactic features, and to comprehend the interactions at stake between morphophonological markings and syntacic constraints. Students are confronted thorough the exercices with various languages, including French, English, German, Latin, Swahili, Sanskrit, and even fictive languages such as Tolkien's Quenya. By the end of the course, students are expected to master the following notions.
@@ -34,7 +58,7 @@ Université Paris Cité (France)
 * Quantiative Morphology
 	* Spring 2021 - Linguistics Master program
 	* 10 students
-	* Content: In this invited talk, provide an insight on how to do quantitative study with respect to morphology. Presentation of my work on derivatives based on distributional semantics.
+	* Content: In this invited talk, I provide an insight on how to do quantitative study with respect to morphology. This course builds on a presentation of my studies on derivatives based on distributional semantics.
 	
 Université Toulouse Jean Jaurès (France)
 ------
@@ -63,9 +87,3 @@ Université Toulouse Jean Jaurès (France)
 	* Fall 2018 - 2nd year of Linguistic Master's program
 	* 10 students
 	* Content: Presentation of my work as a concrete illustration of how to use Distributional Semantics for linguistics.
-
-Upcoming courses
-------
-
-I have been invited to give a course on Distributional Semantics at the Université de Neuchâtel (Switzerland) in Fall 2022. Doctoral course in Approches numériques des relations sémantiques : du lexique aux corpus - La sémantique dis-
-tributionnelle (intervenante invitée), Anticipé, prévu pour automne 2022, doctorants. Theoretical presentation and then practical introduction (literature students).

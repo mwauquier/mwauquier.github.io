@@ -19,25 +19,29 @@ Articles recounting each study are currently under review. Data specific to the 
 
 [Access data](https://osf.io/jxg2v/){: .btn}
 
+
 Morphosemantic demotivation 
 ------
 
-PHC funded project with Fribourg university. description, link to osf
+While working on my PhD thesis at the Université Toulouse Jean Jaurès (France), I initiated and contributed to an international collaboration with the University of Fribourg through the funding program Partenariat Hubert Curien. This collaboration was built on the study of morphosemantic demotivation with both an experimental and a distributional approach. The aim was to explore the gradualness of the phenomenon, and to propose a measure of demotivation.
 
-Material and hypothesis regarding this project can be found on the corresponding OSF page.
+An article is currently under press. Material and hypotheses regarding this project can be found on the corresponding OSF page.
 
 [Access data](https://osf.io/7nqcu/){: .btn}
 
 
-FNS
+French deverbal nouns semantics
 ------
 
-Involved in the data selection and the morphological annotation of French nominalisations in the context of the Swiss funded project ...
+I am involved in the Swiss funded project No. 100012_188782 (coordinated by Richard Huyghe) on the semantics of deverbal nouns in French. Most specifically, I work on the data selection and the morphological annotation.
+
 
 PhD Thesis
 ------
 
 My thesis investigated the semantics of morphological derivatives in French. It provided insights both on the use of distributional semantics in a linguistic perspective, and on sematic specificities of known rival affixes, such as *-euse* and *-rice* for agent nouns, or *-age*, *-ion* and *-ment* for action nouns.
+
+All the data and code used and produced during my PhD thesis are available below.
 
 [Access data](https://github.com/mwauquier/PhdData){: .btn}
 
@@ -45,7 +49,7 @@ My thesis investigated the semantics of morphological derivatives in French. It 
 Non-funded collaborations
 ------
 
-I've had international collaborations with Richard Hugyhe (Fribourg University) on French agent nouns, tackling the semantic et morphological delimitation of the lexical class of agent nouns, and the affix rivalry realized within this lexical class. That led to publications in *Morphology*, *Word Structure* and *Verbum*, which data are available below.
+I've had international collaborations with Richard Hugyhe (Fribourg University) on French agent nouns, tackling the semantic et morphological delimitation of the lexical class of agent nouns, and the affix rivalry realized within this lexical class. That led to publications in *Morphology*, *Word Structure* and *Verbum*, which data can be found at the links below.
 
 
 [Access data for Morphology](https://github.com/french-agent-nouns){: .btn}
