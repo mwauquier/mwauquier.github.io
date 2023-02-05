@@ -7,12 +7,28 @@ author_profile: true
 
 {% include base_path %}
 
-J’ai bénéficié dans le cadre de mon contrat doctoral de deux avenants d’enseignement m’ayant permis de donner l’équivalent de 64h TD par an, en 2018 et en 2019, au département de Sciences
-du Langage (UFR LLCE) de l’université Toulouse Jean Jaurès. Je suis par ailleurs chargée d’enseignement vacataire au département Sciences du langage (Faculté des Humanités) de l’Univer-
-sité de Lille depuis septembre 2021, pour un total de 120h.
+My teaching experience includes my current position as an PhD. Associate Professor, and various Lecturer positions I undertook as a PhD. candidate and as a Postdoctoral fellow.
 
 Université Sorbonne Nouvelle (France)
 ------
+
+* Programming and Project Management
+    * Spring 2023 - 1st year of Master's program (PluriTAL)
+    * 45 students
+    * *Description:* Students are expected to lead proceed to an topic modelling analysis of a journalistic diachronic corpus, by implementing a full pipeline. They are introduced to project management and distributed version control system.
+    * *Notions:* git, bash, Python, NLP processing, UDPipe, topic modelling
+
+* IT and Language Industry
+	* Spring 2023 - 2nd year of Linguistics Bachelor's program
+	* 110 students
+	* *Description:* Students are introduced to NLP and language technologies through a lecture course and lab classes. They are expected to constitute a corpus of media front pages and to analyse it, through the use of a text mining tool.
+	* *Notions:* corpus, text mining, regular expressions, co-occurrences, relative frequency
+
+* Corpus Linguistics
+	* Fall 2022 - 3rd year of Linguistics Bachelor's program
+	* 100 students
+	* *Description:* Students are introduced to corpus linguistics, and to the semantic annotation task. They are confronted with ontological and thematic typologies, and to the INCEpTION platform. They are expected to create their own oral corpus, and to annotate it with respect to the ontological types and thematic roles of nouns.
+	* *Notions:* ontological types, thematic roles, annotation, inter-rater reliability, INCEpTION
 
 * Machine Creativity and Automatic text generation
 	* Fall 2022 - 1st year of NLP Master's program (PluriTAL)
