@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-You'll find below a list of all my current publications. Under review publications are not mentionned for anonymity matters. My list of publications is also avalaible in a [downloadable PDF file]({{ site.url}}/files/Wauquier_english_publication_list_20221025.pdf).
+You'll find below a list of all my current publications. Under review publications are not mentionned for anonymity matters. My list of publications is also avalaible in a [downloadable PDF file]({{ site.url}}/files/Wauquier_english_publication_list_2023.pdf).
 
 {% include toc %}
 
