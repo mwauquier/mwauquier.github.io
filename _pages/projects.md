@@ -57,3 +57,11 @@ I've had international collaborations with Richard Hugyhe (Fribourg University) 
 [Access data for Word Structure](https://github.com/agent-affix-rivalry/){: .btn}
 
 [Access data for Verbum](https://github.com/french-agentive-affix-rivalry){: .btn}
+
+
+ViLing
+---------
+
+I'm undertaking a personal side project on the textual intradegetic content of video games. Eventually, I'd like to tackle the sociolinguistics variation at stake within RPGs, but as a start, I investigated the textual genres specificities of *The Elder Scrolls* intradiegetic texts.
+
+[Access data for ViLing](https://github.com/mwauquier/ViLing){: .btn}

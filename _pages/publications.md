@@ -5,12 +5,17 @@ permalink: /publications/
 author_profile: true
 ---
 
+{% include base_path %}
+
 You'll find below a list of all my current publications. Under review publications are not mentionned for anonymity matters. My list of publications is also avalaible in a [downloadable PDF file]({{ site.url}}/files/Wauquier_english_publication_list_20221025.pdf).
+
+{% include toc %}
 
 Peer-reviewed Journal Articles
 ------
 
-- Lombard, A., **Wauquier, M.**, Fabre, C., Hathout, N., Ho-Dac, M. & Huyghe, R (under press). Evaluating morphosemantic demotivation through experimental and distributional methods. *Lingvisticae Investigationes*, 45:1.
+- Thuilier, J., Tribout, D. & **Wauquier, M.** (Under press). Affix rivalry in French demonym formation: The role of linguistic and non-linguistic parameters. *Word Structure*, 16.1, 114–145. DOI: 10.3366/word.2023.0223.
+- Lombard, A., **Wauquier, M.**, Fabre, C., Hathout, N., Ho-Dac, M. & Huyghe, R. (2022). Evaluating morphosemantic demotivation through experimental and distributional methods. *Lingvisticae Investigationes*, 45:1, 83-115. [Pre-print accessible here](https://folia.unifr.ch/unifr/documents/323035)
 - **Wauquier, M** (2022). Apports de la sémantique distributionnelle pour la morphologie dérivationnelle. *Corpus*, 23. URL : [https://journals.openedition.org/corpus/6303](http://journals.openedition.org/corpus/6303) ; DOI : [https://doi.org/10.4000/corpus.6303](https://doi.org/10.4000/corpus.6303)
 - Huyghe, R. & **Wauquier, M** (2021). Distributional semantics insights on agentive sufﬁx rivalry in French. *Word Structure*, 14:3, 354–391.
 - Huyghe, R. & **Wauquier, M** (2021). Une étude distributionnelle des noms d'agent en *-ant*, *-eur*, *-ien*, *-ier* et *-iste*. *Verbum*, XLIII, no. 1, 13-40.
@@ -21,7 +26,7 @@ Peer-reviewed Journal Articles
 Book Chapter
 ------
 
-**Wauquier, M.**, Fabre, C. & Hathout, N (2021). Différenciation des noms d'action dérivés : le facteur de technicité étudié en corpus. In Cécile Frérot (dir.), *Des corpus numériques à l’analyse linguistique en langues de spécialité* (241-261). Grenoble : UGA Éditions.
+- **Wauquier, M.**, Fabre, C. & Hathout, N (2021). Différenciation des noms d'action dérivés : le facteur de technicité étudié en corpus. In Cécile Frérot (dir.), *Des corpus numériques à l’analyse linguistique en langues de spécialité* (241-261). Grenoble : UGA Éditions.
 
 Peer-reviewed Conference Proceedings
 ------
@@ -41,4 +46,10 @@ Thesis
 - **Wauquier, M.** (2017). *Explorations méthodologiques pour la caractérisation distributionnelle de dérivés morphologiques*. Master thesis, Université Toulouse Jean Jaurès. [Download here](http://dante.univ-tlse2.fr/4137/)
 - **Wauquier, M.** (2016). *Indices distributionnels pour la comparaison sémantique de dérivés morphologiques*. Master Thesis, Université Toulouse Jean Jaurès. [Download here](http://dante.univ-tlse2.fr/1827/)
 
+Valorization
+------
 
+- Podcast on Na'vi language. *La Science CQFD*, RadioFrance. Uploaded on December 14, 2022. [Broadcast is available here](https://www.radiofrance.fr/franceculture/podcasts/la-science-cqfd/avatar-2-ouvrir-la-boite-de-pandora-5668608?fbclid=IwAR2MtZmyP-SSrL7CV6sDv17LZMdRviLbXWObXkRZk-0mHbDEba4dbcIzVo4)
+- «Panini», «segg» ou «depre$$ion» : l'algolangage, le nouvel argot des utilisateurs de TikTok. *Le Figaro*. Published on  December 16, 2022. [Article available here](https://www.lefigaro.fr/secteur/high-tech/panini-segg-ou-depre-ion-l-algolangage-le-nouvel-argot-des-utilisateurs-de-tiktok-20221216?fbclid=IwAR39_01ipn2nuEZMTWeZTzoBGzmaNMuLqXjil9QXWpeo5b59eyJbzkZLHPE)
+- Plongée dans le monde des langues fictives. *La Nouvelle République*. Published on November 27, 2022. [Article available here](https://www.lanouvellerepublique.fr/loisirs/plongee-dans-le-monde-des-langues-fictives?fbclid=IwAR3jl-urKG3mEz5FrKQ4MCniq1LBuc12Z6rWkIpeg2ipqOfpcv0poN2Okcg)
+- L'informatique peut-il aider la linguistique ? Ma thèse en synthèse. 2019 [Recording can be watch here](https://youtu.be/DqxXfgXRs-U)

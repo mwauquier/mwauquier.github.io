@@ -42,6 +42,9 @@ Academic Positions
   
 Teaching experience
 ------
+* Spring 2023
+  * Introduction to NLP
+  * Programming and project management
 * Fall 2022
   * Machine Creativity and text generation
   * Corpus Linguistics
@@ -79,7 +82,7 @@ Grants
 * 3-year PhD scholarship
 * International Doctoral Mobility Scholarship
 
-Funded Projects
+Participation to Funded Projects
 ------
 * Demonext (Derivation Morphologique en Extention) - ANR-17-CE23-0005
   * Cordinator: Fiammetta Namer
