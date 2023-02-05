@@ -4,8 +4,11 @@ title: "Projects and data"
 permalink: /projects/
 author_profile: true
 ---
+{% include base_path %}
 
 Here is a brief description of the main funded and non-funded projects I've been or still am involved with. When available, a link to their official website and their related data repositories is provided.
+
+{% include toc %}
 
 
 Demonette
